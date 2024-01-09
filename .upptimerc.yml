@@ -5,14 +5,17 @@ repo: setzer-uptime # The name of this repository
 sites:
   - name: MS Wolpertshausen
     url: https://dns.loxonecloud.com/504F94D06D2C
+    maxResponseTime: 30000
     expectedStatusCodes:
       - 200
   - name: MS Vellberg
     url: https://dns.loxonecloud.com/504F94A1427B
+    maxResponseTime: 30000
     expectedStatusCodes:
       - 200
   - name: MS Gründelhardt
     url: https://dns.loxonecloud.com/504F94D00DAC
+    maxResponseTime: 30000
     expectedStatusCodes:
       - 200
 
