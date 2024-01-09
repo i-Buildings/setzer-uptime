@@ -6,23 +6,21 @@ sites:
   - name: MS Wolpertshausen
     url: https://dns.loxonecloud.com/504F94D06D2C
     expectedStatusCodes:
-      - 307
-  - name: MS Test
-    url: https://dns.loxonecloud.com/004F94D06D2C
+      - 200
+  - name: MS Vellberg
+    url: https://dns.loxonecloud.com/504F94A1427B
     expectedStatusCodes:
-      - 307
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+      - 200
+  - name: MS Gründelhardt
+    url: https://dns.loxonecloud.com/504F94D00DAC
+    expectedStatusCodes:
+      - 200
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
-  baseUrl: /setzer-uptime
+  baseUrl: /i-Buildings/setzer-uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
