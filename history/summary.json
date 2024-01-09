@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dns.loxonecloud.com.ico",
     "slug": "ms-wolpertshausen",
     "status": "down",
-    "uptime": "97.51%",
-    "uptimeDay": "97.51%",
-    "uptimeWeek": "97.51%",
-    "uptimeMonth": "97.51%",
-    "uptimeYear": "97.51%",
+    "uptime": "94.82%",
+    "uptimeDay": "94.82%",
+    "uptimeWeek": "94.82%",
+    "uptimeMonth": "94.82%",
+    "uptimeYear": "94.82%",
     "time": 4446,
     "timeDay": 4446,
     "timeWeek": 4446,
     "timeMonth": 4446,
     "timeYear": 4446,
     "dailyMinutesDown": {
-      "2024-01-09": 7
+      "2024-01-09": 15
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://dns.loxonecloud.com/504F94D00DAC",
     "icon": "https://icons.duckduckgo.com/ip3/dns.loxonecloud.com.ico",
     "slug": "ms-gruendelhardt",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1763,
-    "timeDay": 1763,
-    "timeWeek": 1763,
-    "timeMonth": 1763,
-    "timeYear": 1763,
+    "status": "up",
+    "uptime": "97.09%",
+    "uptimeDay": "97.09%",
+    "uptimeWeek": "97.09%",
+    "uptimeMonth": "97.09%",
+    "uptimeYear": "97.09%",
+    "time": 1256,
+    "timeDay": 1256,
+    "timeWeek": 1256,
+    "timeMonth": 1256,
+    "timeYear": 1256,
     "dailyMinutesDown": {
-      "2024-01-09": 0
+      "2024-01-09": 8
     }
   }
 ]
