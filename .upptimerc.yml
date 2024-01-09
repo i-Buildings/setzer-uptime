@@ -21,6 +21,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /setzer-uptime
+  themeUrl: https://raw.githubusercontent.com/i-Buildings/setzer-uptime/master/assets/setzer.css
   logoUrl: https://www.landmetzgerei.de//themes/frontend/setzer/skin/images/logo.png
   name: Setzer - Loxone Onlinemonitor
   introTitle: "Uptime Monitor für Landmetzgerei Setzer"
