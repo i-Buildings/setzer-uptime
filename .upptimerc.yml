@@ -7,6 +7,10 @@ sites:
     url: https://dns.loxonecloud.com/504F94D06D2C
     expectedStatusCodes:
       - 307
+  - name: MS Test
+    url: https://dns.loxonecloud.com/004F94D06D2C
+    expectedStatusCodes:
+      - 307
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
