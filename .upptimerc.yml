@@ -26,6 +26,7 @@ status-website:
   baseUrl: /setzer-uptime
   themeUrl: https://i-buildings.github.io/setzer-uptime/setzer.css
   logoUrl: https://www.landmetzgerei.de//themes/frontend/setzer/skin/images/logo.png
+  favicon: https://www.landmetzgerei.de//themes/frontend/setzer/skin//images/favicon.png
   name: Setzer - Loxone Onlinemonitor
   introTitle: "Uptime Monitor für Landmetzgerei Setzer"
   introMessage:
