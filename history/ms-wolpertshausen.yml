@@ -1,7 +1,7 @@
 url: https://dns.loxonecloud.com/504F94D06D2C
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-23T18:48:25.144Z
+status: up
+code: 200
+responseTime: 1033
+lastUpdated: 2024-01-23T18:55:24.308Z
 startTime: 2024-01-09T09:42:25.419Z
 generator: Upptime <https://github.com/upptime/upptime>
