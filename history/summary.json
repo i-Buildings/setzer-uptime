@@ -4,21 +4,21 @@
     "url": "https://dns.loxonecloud.com/504F94D06D2C",
     "icon": "https://icons.duckduckgo.com/ip3/dns.loxonecloud.com.ico",
     "slug": "ms-wolpertshausen",
-    "status": "up",
-    "uptime": "91.87%",
-    "uptimeDay": "37.59%",
-    "uptimeWeek": "76.10%",
-    "uptimeMonth": "91.87%",
-    "uptimeYear": "91.87%",
+    "status": "down",
+    "uptime": "91.92%",
+    "uptimeDay": "38.07%",
+    "uptimeWeek": "76.25%",
+    "uptimeMonth": "91.92%",
+    "uptimeYear": "91.92%",
     "time": 1682,
-    "timeDay": 1656,
+    "timeDay": 1655,
     "timeWeek": 1574,
     "timeMonth": 1682,
     "timeYear": 1682,
     "dailyMinutesDown": {
       "2024-01-29": 882,
       "2024-01-28": 1065,
-      "2024-01-27": 462
+      "2024-01-27": 447
     }
   },
   {
