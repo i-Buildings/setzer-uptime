@@ -33,11 +33,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dns.loxonecloud.com.ico",
     "slug": "ms-vellberg",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.37%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "99.83%",
+    "uptimeYear": "99.84%",
     "time": 1800,
     "timeDay": 1587,
     "timeWeek": 3424,
@@ -64,12 +64,12 @@
     "url": "https://dns.loxonecloud.com/504F94D00DAC",
     "icon": "https://icons.duckduckgo.com/ip3/dns.loxonecloud.com.ico",
     "slug": "ms-gruendelhardt",
-    "status": "up",
-    "uptime": "99.10%",
-    "uptimeDay": "97.10%",
+    "status": "down",
+    "uptime": "99.11%",
+    "uptimeDay": "97.09%",
     "uptimeWeek": "95.10%",
-    "uptimeMonth": "97.78%",
-    "uptimeYear": "99.10%",
+    "uptimeMonth": "97.80%",
+    "uptimeYear": "99.11%",
     "time": 3935,
     "timeDay": 6554,
     "timeWeek": 6067,
@@ -96,7 +96,7 @@
       "2024-03-02": 36,
       "2024-03-01": 7,
       "2024-02-29": 14,
-      "2024-02-28": 14
+      "2024-02-28": 7
     }
   }
 ]
