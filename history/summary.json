@@ -69,17 +69,17 @@
     "slug": "ms-gruendelhardt",
     "status": "down",
     "uptime": "98.77%",
-    "uptimeDay": "96.40%",
-    "uptimeWeek": "90.68%",
+    "uptimeDay": "95.92%",
+    "uptimeWeek": "90.61%",
     "uptimeMonth": "96.63%",
     "uptimeYear": "98.77%",
-    "time": 4503,
-    "timeDay": 6375,
-    "timeWeek": 6353,
-    "timeMonth": 5794,
-    "timeYear": 4503,
+    "time": 4505,
+    "timeDay": 6225,
+    "timeWeek": 6327,
+    "timeMonth": 5789,
+    "timeYear": 4505,
     "dailyMinutesDown": {
-      "2024-04-01": 51,
+      "2024-04-01": 58,
       "2024-03-31": 31,
       "2024-03-30": 49,
       "2024-03-29": 54,
@@ -92,7 +92,7 @@
       "2024-03-21": 87,
       "2024-03-20": 80,
       "2024-03-19": 60,
-      "2024-03-18": 62
+      "2024-03-18": 55
     }
   }
 ]
