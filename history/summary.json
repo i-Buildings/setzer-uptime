@@ -77,17 +77,17 @@
     "url": "https://dns.loxonecloud.com/504F94D00DAC",
     "icon": "https://icons.duckduckgo.com/ip3/dns.loxonecloud.com.ico",
     "slug": "ms-gruendelhardt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.20%",
-    "uptimeDay": "96.91%",
+    "uptimeDay": "96.90%",
     "uptimeWeek": "93.62%",
-    "uptimeMonth": "97.49%",
+    "uptimeMonth": "97.51%",
     "uptimeYear": "99.20%",
-    "time": 5015,
-    "timeDay": 6334,
-    "timeWeek": 6480,
-    "timeMonth": 6124,
-    "timeYear": 5015,
+    "time": 5022,
+    "timeDay": 6549,
+    "timeWeek": 6505,
+    "timeMonth": 6132,
+    "timeYear": 5022,
     "dailyMinutesDown": {
       "2024-04-13": 14,
       "2024-04-12": 86,
@@ -101,7 +101,7 @@
       "2024-04-04": 114,
       "2024-04-03": 110,
       "2024-04-02": 136,
-      "2024-04-01": 19
+      "2024-04-01": 12
     }
   }
 ]
